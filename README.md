@@ -42,6 +42,6 @@ Or npm:
 npm install --save-dev jest
 ```
 
-To run Jest tests: 
+Run Jest tests: 
 ```yarn test``` or ```npm run test``` 
 
