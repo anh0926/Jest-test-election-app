@@ -34,13 +34,11 @@ Features of the MODEL are:</br>
 
 Install Jest using yarn: 
 
-```
-yarn add --dev jest
-````
+```yarn add --dev jest````
+
 Or npm:
-```
-npm install --save-dev jest
-```
+
+```npm install --save-dev jest```
 
 Run Jest tests: 
 
