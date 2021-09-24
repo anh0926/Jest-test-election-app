@@ -34,7 +34,7 @@ Features of the MODEL are:</br>
 
 Install Jest using yarn: 
 
-```yarn add --dev jest````
+```yarn add --dev jest```
 
 Or npm:
 
